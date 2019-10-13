@@ -22,6 +22,7 @@ There are several ways to run a Spring application on your machine. One way is t
 
 - Download the zip or clone the Git repository.
 - Unzip the zip file (if you downloaded one)
+- Run SQL script feeds.sql in the MySQLWorkbench to setup the database
 - Open Intellij Idea
 - Open Run/Debug Configuration dialog 
 - Select your application server (Tomcat)
