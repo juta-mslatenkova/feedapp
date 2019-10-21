@@ -1,6 +1,18 @@
 # Feed App
 
-Demo Feed Homework App 
+The Feed App was written as a test assignment for one company with the requirements to use:
+* Spring (Spring MVC for web part) 
+* Any ORM framework (I used Hibernate)
+* MySQL
+* Apache Tomcat 
+* JSP pages with HTML&CSS
+
+##### The following functionality had to be implemented:
+* Adding new RSS feeds
+* Getting data from these RSS feeds (e.g. articles, dates, etc.) and saving it to the database
+* Viewing the list of added feeds
+* Viewing the details about each feed using the data previously saved to the database
+
 
 ## Built With
 
